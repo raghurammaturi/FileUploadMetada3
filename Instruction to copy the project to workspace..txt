@@ -1,0 +1,13 @@
+Instruction to copy the project to workspace.
+
+1) Dowload the source code.
+2) create java maven project(using eclipse/netbeans/RAD or Spring STS.) with and point to the pom.xml file from the downloaded soruce code from above step
+3) rUN the FileTestingApp.java file.
+4) Call the services using either postman or run the MyClient.java for different test scenariaos.
+
+
+OR
+
+1) Install Maven and set the environment variables paths.
+2) download the jar from the github
+3) run the jar with the command jar -jar and jar file name.
