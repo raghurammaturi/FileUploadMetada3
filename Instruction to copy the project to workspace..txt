@@ -1,5 +1,0 @@
-Instruction to copy the project to workspace.
-
-1) Import the FileTestingApp.zip to your workspace using eclipse/netbeans/RAD or Spring STS.
-2) rUN the FileTestingApp.java file.
-3) Call the services using either postman or run the MyClient.java.
